@@ -19,7 +19,6 @@
 1. Python ইনস্টল করুন (যদি না থাকে): [Download Python](https://www.python.org/downloads/)
 2. এই কোডটি `grocery_store.py` নামে সেভ করুন
 3. টার্মিনাল/কমান্ড প্রম্পটে চালান:
-
 ```bash
 python grocery_store.py
 4.পণ্যের নাম, দাম, পরিমাণ দিন
